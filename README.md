@@ -7,9 +7,10 @@ Actually, this replaces EICAS directory, no smart switching for now.
 
 Too use:
 Warning! use a dedicated installation of the source code or class.
-compile 
+
+to compile: 
 see build.bat for Windows
 
 Copy and write over classes in \net\sourceforge\xhsi\flightdeck\eicas
 
-Run. see run.bat
+Run: see run.bat
