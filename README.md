@@ -1,4 +1,5 @@
-# RJ-addon-for-XHSI
+# RJ-addon-for-XHSI for X-Plane
+ 
 
 Adds Regional Jet EICAS to XHSI
 
